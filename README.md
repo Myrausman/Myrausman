@@ -1,6 +1,10 @@
 # HELLO WORLD !!!
  This is my first repository on GitHub.
  I love painting:🎨🖌️, coffee:ˏˋ☕ˎˊ .
+ - 💬 Ask me about **Python, Vs code**
+
+- 📫 How to reach me **maira.usman5703@gmail.com**
+
 
  <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="150"/>
