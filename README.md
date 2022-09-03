@@ -30,6 +30,10 @@ I am a BS SE Student from Pakistan. <img src="https://media.giphy.com/media/WUlp
 <div>
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-plain.svg" title="Python" alt="python" width="40" height="40"/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/cplusplus/cplusplus-plain.svg" title="C++" alt="python" width="40" height="40"/>&nbsp;
+ 
+ # 📈 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Myrausman&theme=great-gatsby&hide_border=true&include_all_commits=false&count_private=false )<br><br>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Myrausman&theme=great-gatsby&hide_border=true )<br><br>
 
 ---
 
