@@ -38,8 +38,8 @@
 
  
  # :📈 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Myrausman&theme=great-gatsby&hide_border=true&include_all_commits=false&count_private=false )
-![](https://github-readme-streak-stats.herokuapp.com/?user=Myrausman&theme=great-gatsby&hide_border=true )<br><br>
+![](https://github-readme-stats.vercel.app/api?username=Myrausman&theme=great-gatsby&hide_border=true&include_all_commits=false&count_private=false&width=70 )
+![](https://github-readme-streak-stats.herokuapp.com/?user=Myrausman&theme=great-gatsby&hide_border=true&width=70 )<br><br>
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=Myrausman&show_icons=true&locale=en&layout=compact&theme=dracula)
 <!--   <img align="center" src=" width=60% /> -->
 
