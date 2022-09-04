@@ -6,7 +6,7 @@
 <h4 align="center">I am a Tech Geek👨🏼‍💻</h4>
  <img align="right" src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="200" height="100"/>
 <ul>
- ###:woman_technologist: About Me:           
+<h2>:woman_technologist: About Me:</h2>
  <li>👷 Currently pursuing BSc in Software Engineering(2021-2025) from Usman Institure of Technology. </li>
  <li>This is my first repository on GitHub.</li>
  <li> I love painting:🎨🖌️, coffee:ˏˋ☕ˎˊ .</li>
