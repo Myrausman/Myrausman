@@ -71,5 +71,5 @@
 ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 ---
-
+<img src='.github/workflows/snakes.svg'/>
 <img src='.github/workflows/thanks.svg'/>
