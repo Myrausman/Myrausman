@@ -71,5 +71,6 @@
 ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 ---
-<img src='.github/workflows/snakes.svg'/>
+![snake gif](https://github.com/Myrausman/Myrausman/blob/output/github-contribution-grid-snake.svg)
+
 <img src='.github/workflows/thanks.svg'/>
