@@ -38,7 +38,7 @@
 
  
  # :📈 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Myrausman&theme=great-gatsby&hide_border=true&include_all_commits=false&count_private=false&width=70 )
+![](https://github-readme-stats.vercel.app/api?username=Myrausman&theme=great-gatsby&hide_border=true&theme=dark&title_color=ffffff&text_color=blue&bg_color=9e8cb1&hide_border=true&locale=en&include_all_commits=false&count_private=false&width=70 )
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Myrausman&theme=great-gatsby&hide_border=true&width=70 )<br><br>
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=Myrausman&show_icons=true&locale=en&layout=compact&theme=dracula)
 <!--   <img align="center" src=" width=60% /> -->
