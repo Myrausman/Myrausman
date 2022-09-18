@@ -38,9 +38,9 @@
 
  
  # :📈 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Myrausman&theme=great-gatsby&hide_border=true&theme=dark&title_color=ffffff&text_color=blue&bg_color=9e8cb1&hide_border=true&locale=en&include_all_commits=false&count_private=false&width=70 )
-![](https://github-readme-streak-stats.herokuapp.com/?user=Myrausman&theme=great-gatsby&hide_border=true&width=70 )<br><br>
-![](https://github-readme-stats.vercel.app/api/top-langs?username=Myrausman&show_icons=true&locale=en&layout=compact&theme=dracula)
+![](https://github-readme-stats.vercel.app/api?username=Myrausman&theme=great-gatsby&hide_border=true&theme=dark&title_color=050A30&text_color=51087E&bg_color=9e8cb1&hide_border=false&locale=en&include_all_commits=false&count_private=false&width=70 )
+![](https://github-readme-streak-stats.herokuapp.com/?user=Myrausman&theme=great-gatsby&bg_color=9e8cb1&text_color=51087E&hide_border=true&locale=en&include_all_commits=false&count_private=false&width=70)<br><br>
+![](https://github-readme-stats.vercel.app/api/top-langs?username=Myrausman&show_icons=true&locale=en&layout=compact&theme=dracula&bg_color=9e8cb1&text_color=51087E&title_color=050A30)
 <!--   <img align="center" src=" width=60% /> -->
 
 ---
@@ -57,7 +57,7 @@
 
  
 ---
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Myrausman&bg_color=000000&color=4ffe47&line=4fff67&point=ffffff&area=true&hide_border=true)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Myrausman&bg_color=&text_color=050A30&title_color=050A30&point=050A30&area=true&hide_border=true)  
 
 
 
