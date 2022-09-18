@@ -1,5 +1,7 @@
 
  <h5 align="left"> Visitor count <br><br><img width="120" src="https://profile-counter.glitch.me/Myrausman/count.svg" /></h5>
+ <img align='right' src='https://islamic-qoutes-header.herokuapp.com/' height=300 alt='samadpls/islamic-qoutes'>
+ 
  
 <h1 align="center">Hi, Maira Usman Here🤍 <img align="right" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> </h1>
 
