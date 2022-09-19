@@ -1,16 +1,19 @@
 
  <h5 align="left"> Visitor count <br><br><img width="120" src="https://profile-counter.glitch.me/Myrausman/count.svg" /></h5>
- <div>
- <img align='right' src='https://islamic-qoutes-header.herokuapp.com/' height=300 alt='samadpls/islamic-qoutes' /></div>
+ <h1 align="center">Hi, Maira Usman Here🤍 <img align="right" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> </h1>
+ <h4 align="center">I am a Tech Geek👨🏼‍💻</h4></div>
+ <div align="center">
+ <img align="center" src='https://islamic-qoutes-header.herokuapp.com/' height=300 alt='samadpls/islamic-qoutes' /></div>
  
  ---
- <div>
-<h1 align="center">Hi, Maira Usman Here🤍 <img align="right" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> </h1>
+ <div align="center">
 
-<h4 align="center">I am a Tech Geek👨🏼‍💻</h4></div>
- <img align="right" src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="200" height="100"/>
+<h2> | CSS | HTML | PYTHON | CHISEL | SCALA | PANDAS | WORDPRESS | PyGame |</h2></div>
+
+
+
 <ul>
-<h2>:woman_technologist: About Me:</h2>
+<h2>:woman_technologist: About Me:</h2> <img align="right" src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="200" height="100"/>
  <li>👷 Currently pursuing BSc in Software Engineering(2021-2025) from Usman Institure of Technology. </li>
  <li>This is my first repository on GitHub.</li>
  <li> I love painting:🎨🖌️, coffee:ˏˋ☕ˎˊ .</li>
