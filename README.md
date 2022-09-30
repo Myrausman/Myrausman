@@ -86,3 +86,4 @@
 ![snake gif](https://github.com/Myrausman/Myrausman/blob/output/github-contribution-grid-snake.svg)
 
 <img src='.github/workflows/thanks.svg'/>
+.
