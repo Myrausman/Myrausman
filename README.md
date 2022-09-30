@@ -66,7 +66,7 @@
 
  
 ---
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Myrausman&bg_color=19000e&text_color=51087E&title_color=050A30&point=fffffa&area=true&hide_border=true)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Myrausman&bg_color=19000e&text_color=51087E&title_color=fffffa&point=fffffa&area=true&hide_border=true)  
 
 
 
