@@ -4,10 +4,10 @@
  <h4 align="center">I am a Tech Geek👨🏼‍💻</h4></div>
  <div align="right">
   <a href='https://github.com/samadpls/Islamic-qoutes'>
-<img align='right' src='https://islamic-qoutes-header.herokuapp.com/' height=300 alt='samadpls/islamic-qoutes'></a>
+<img align='center' src='https://islamic-qoutes-header.herokuapp.com/' height=300 alt='samadpls/islamic-qoutes'></a>
 </div>
- 
- ---
+ <br>
+ <br>
  <div align="center">
 
 <h2> | CSS | HTML | PYTHON | CHISEL | SCALA | PANDAS | WORDPRESS | PyGame |</h2></div>
