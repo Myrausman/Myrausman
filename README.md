@@ -1,13 +1,14 @@
-
- <h5 align="left"> Visitor count <br><br><img width="120" src="https://profile-counter.glitch.me/Myrausman/count.svg" /></h5>
- <h1 align="center">Hi, Maira Usman Here🤍 <img align="right" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> </h1>
- <h4 align="center">I am a Tech Geek👨🏼‍💻</h4></div>
  <div align="right">
   <a href='https://github.com/samadpls/Islamic-qoutes'>
 <img align='center' src='https://islamic-qoutes-header.herokuapp.com/' height=300 alt='samadpls/islamic-qoutes'></a>
 </div>
+ <br>----------------------------------------------------------------------------------------------------------------------------------------------------------
  <br>
- <br>
+ 
+ <h5 align="left"> Visitor count <br><br><img width="120" src="https://profile-counter.glitch.me/Myrausman/count.svg" /></h5>
+ <h1 align="center">Hi, Maira Usman Here🤍 <img align="right" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> </h1>
+ <h4 align="center">I am a Tech Geek👨🏼‍💻</h4></div>
+
  <div align="center">
 
 <h2> | CSS | HTML | PYTHON | CHISEL | SCALA | PANDAS | WORDPRESS | PyGame |</h2></div>
