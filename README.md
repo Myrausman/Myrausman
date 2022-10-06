@@ -2,8 +2,10 @@
   <a href='https://github.com/samadpls/Islamic-qoutes'>
 <img align='center' src='https://islamic-qoutes-header.herokuapp.com/' height=300 alt='samadpls/islamic-qoutes'></a>
 </div>
- <br>----------------------------------------------------------------------------------------------------------------------------------------------------------
  <br>
+ <br>
+
+---
  
  <h5 align="left"> Visitor count <br><br><img width="120" src="https://profile-counter.glitch.me/Myrausman/count.svg" /></h5>
  <h1 align="center">Hi, Maira Usman Here🤍 <img align="right" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> </h1>
@@ -48,9 +50,9 @@
 
  
  # :📈 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Myrausman&theme=great-gatsby&hide_border=true&theme=dark&title_color=050A30&text_color=51087E&bg_color=9e8cb1&hide_border=false&locale=en&include_all_commits=false&count_private=false&width=70 )
-![](https://github-readme-streak-stats.herokuapp.com/?user=Myrausman&theme=great-gatsby&bg_color=9e8cb1&text_color=51087E&hide_border=true&locale=en&include_all_commits=false&count_private=false&width=70)<br><br>
-![](https://github-readme-stats.vercel.app/api/top-langs?username=Myrausman&show_icons=true&locale=en&layout=compact&theme=dracula&bg_color=9e8cb1&text_color=51087E&title_color=050A30)
+| stats | streaks | languages |
+|---|---|---|
+| ![](https://github-readme-stats.vercel.app/api?username=Myrausman&theme=great-gatsby&hide_border=true&theme=dark&bg_color=19000e&text_color=C576F6&title_color=fffffa&point=fffffa&hide_border=false&locale=en&include_all_commits=false&count_private=false&width=70 ) | [![GitHub Streak](https://streak-stats.demolab.com?user=Myrausman&background=19000E&dates=C576F6&stroke=C576F6&fire=F67E15&currStreakLabel=FFFFFA&sideNums=C576F6&sideLabels=FFFFFF&currStreakNum=C576F6&ring=FB9F16)](https://git.io/streak-stats) | ![](https://github-readme-stats.vercel.app/api/top-langs?username=Myrausman&show_icons=true&locale=en&layout=compact&theme=dracula&bg_color=19000e&text_color=C576F6&title_color=fffffa&point=fffffa) |
 <!--   <img align="center" src=" width=60% /> -->
 
 ---
@@ -77,7 +79,7 @@
 </div>
 ---
 # 🏆 GitHub Trophiesg
-<img src='https://github-profile-trophy.vercel.app/?username=Myrausman&theme=radical&no-frame=true&no-bg=true&margin-w=4' width=75%/>
+<img src='https://github-profile-trophy.vercel.app/?username=Myrausman&bg_color=19000e&text_color=51087E&title_color=fffffa&point=fffffa&theme=radical&no-frame=true&no-bg=true&margin-w=4' width=75%/>
 
 
 ---
