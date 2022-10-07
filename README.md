@@ -1,6 +1,6 @@
  <div align="right">
   <a href='https://github.com/samadpls/Islamic-qoutes'>
-<img align='center' src='https://islamic-qoutes-header.herokuapp.com/' height=300 alt='samadpls/islamic-qoutes'></a>
+<img align='center' src='https://islamic-qoutes-header.herokuapp.com/' width=100% alt='samadpls/islamic-qoutes'></a>
 </div>
  <br>
  <br>
