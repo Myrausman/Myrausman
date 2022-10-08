@@ -89,12 +89,7 @@
 ![snake gif](https://github.com/Myrausman/Myrausman/blob/output/github-contribution-grid-snake.svg)
 
 # Github Contributions
-<h4 align="center">Isometric view of contributions in the last year</h4>
-<p align="center">
-	<a href="profile-3d-contrib/profile-night-rainbow.svg">
-		<img width="900em" src="profile-3d-contrib/profile-night-rainbow.svg">
-	</a>
-</p>
+![](./profile-3d-contrib/profile-green-animate.svg)
 
 # Github Metrics
 ![Metrics](https://metrics.lecoq.io/Myrausman?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FKarachi)
