@@ -88,7 +88,7 @@
 ---
 ![snake gif](https://github.com/Myrausman/Myrausman/blob/output/github-contribution-grid-snake.svg)
 
-.# Github Contributions
+# Github Contributions
 <h4 align="center">Isometric view of contributions in the last year</h4>
 <p align="center">
 	<a href="./profile-3d-contrib/profile-night-green.svg">
