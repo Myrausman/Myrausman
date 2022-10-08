@@ -15,11 +15,11 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
-          SETTING_JSON : profile-3d-contrib/profile-night-rainbow.svg
+        
       - name: Commit & Push
         run: |
-          git config user.name github-actions
-          git config user.email github-actions@github.com
+          git config Myrausman
+          git config maira.usman5703@gmail.com 
           git add -A .
           git commit -m "generated"
           git push
