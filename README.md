@@ -86,7 +86,7 @@
 ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 ---
-![snake gif](https://github.com/Myrausman/Myrausman/blob/output/github-contribution-grid-snake.svg)
+<img src='.github/workflows/snake.svg'>
 
 # Github Contributions
 ![](./profile-3d-contrib/profile-green-animate.svg)
