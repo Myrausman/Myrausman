@@ -97,8 +97,7 @@
 </p>
 
 # Github Metrics
-<p align="center">
-	<img width="625em" src="https://github.com/Myrausman/Myrausman/blob/master/github-metrics.svg" />
-</p>
+![Metrics](https://metrics.lecoq.io/Myrausman?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FKarachi)
+
 
 <img src='.github/workflows/thanks.svg'/>
