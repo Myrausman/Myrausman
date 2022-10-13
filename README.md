@@ -6,7 +6,13 @@
 
 ---
 
- <h1 align="center">Hi, Maira Usman Here🤍 <img align="right" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> </h1>
+ <!--  <h1 align="center">Hi, Maira Usman Here🤍 <img align="right" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> </h1>
+ -->
+ 
+ <a href="https://www.linkedin.com/in/maira-usman-//" target="_blank">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hi%20Myra%20Usman%20Here🤍&fontSize=30&height=120&width=100%&section=header"/>
+</p></a>
  <h4> Visitor count <br><br><img width="120" src="https://profile-counter.glitch.me/Myrausman/count.svg" /></h4>
 <!--  <h4 align="center">I am a Tech Geek👨🏼‍💻</h4></div>
    -->
