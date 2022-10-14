@@ -9,7 +9,7 @@
  <!--  <h1 align="center">Hi, Maira Usman Here🤍 <img align="right" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> </h1>
  -->
  
- <a href="https://www.linkedin.com/in/maira-usman-//" target="_blank">
+ <a href="https://www.linkedin.com/in/maira-usman-/" target="_blank">
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hi%20Myra%20Usman%20Here🤍&fontSize=30&height=120&width=100%&section=header"/>
 </p></a>
@@ -27,7 +27,7 @@
 
  ### 👩‍💻About Me:
   <a href='https://github.com/samadpls/Programing-Gifs'>
-<img align='right' src='https://programming-gifs.herokuapp.com/' widht=100 height=300 alt='samadpls/Programming-Gifs'></a>
+<img align='right' src='https://programming-gifs.herokuapp.com/' widht=100 height=100 alt='samadpls/Programming-Gifs'></a>
 
  - 👷 Currently pursuing BSc in Software Engineering(2021-2025) from Usman Institure of Technology.
  - This is my first repository on GitHub.
@@ -72,7 +72,8 @@
   
 </div>
 ---
-# 🏆 GitHub Trophiesg
+
+# 🏆 GitHub Trophies
 <img src='https://github-profile-trophy.vercel.app/?username=Myrausman&bg_color=19000e&text_color=51087E&title_color=fffffa&point=fffffa&theme=radical&no-frame=true&no-bg=true&margin-w=4' width=75%/>
 
 
