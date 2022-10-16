@@ -50,7 +50,8 @@
 | ![](https://github-readme-stats.vercel.app/api?username=Myrausman&theme=great-gatsby&hide_border=true&theme=dark&bg_color=19000e&text_color=C576F6&title_color=fffffa&point=fffffa&hide_border=false&locale=en&include_all_commits=false&count_private=false&width=70 ) | [![GitHub Streak](https://streak-stats.demolab.com?user=Myrausman&background=19000E&dates=C576F6&stroke=C576F6&fire=F67E15&currStreakLabel=FFFFFA&sideNums=C576F6&sideLabels=FFFFFF&currStreakNum=C576F6&ring=FB9F16)](https://git.io/streak-stats) | ![](https://github-readme-stats.vercel.app/api/top-langs?username=Myrausman&show_icons=true&locale=en&layout=compact&theme=dracula&bg_color=19000e&text_color=C576F6&title_color=fffffa&point=fffffa) |
 <!--   <img align="center" src=" width=60% /> -->
 
----                                                    
+---
+
 <div id="header" align="left">
 
   # :🌐 Connect with me:
@@ -71,6 +72,7 @@
 
   
 </div>
+
 ---
 
 # 🏆 GitHub Trophies
