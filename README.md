@@ -30,7 +30,7 @@
   <a href='https://github.com/samadpls/Programing-Gifs'>
 <img align='right' src='https://programming-gifs.herokuapp.com/' widht=100 height=100 alt='samadpls/Programming-Gifs'></a>
 
- - 👷 Currently pursuing BSc in Software Engineering(2021-2025) from Usman Institure of Technology.
+ - 👷 Currently pursuing BSc in Software Engineering(2021-2025) from Usman Institute of Technology.
  - This is my first repository on GitHub.
  - I love painting:🎨🖌️, coffee:ˏˋ☕ˎˊ .
  - 🌱 Tech Geek, always ready to learn new Technologies/Frameworks/Languages.
