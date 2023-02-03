@@ -84,7 +84,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 ---
 <img src='.github/workflows/snake.svg'>
----
+
 # Github Contributions
 ![](./profile-3d-contrib/profile-green-animate.svg)
 
