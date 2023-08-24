@@ -1,13 +1,3 @@
- <div align="right">
-  <a href='https://github.com/samadpls/Islamic-qoutes'>
-<img align='center' src='https://islamic-qoutes-header.herokuapp.com/' width=100% alt='samadpls/islamic-qoutes'></a>
-</div>
- <br>
-
----
-
- <!--  <h1 align="center">Hi, Maira Usman Here🤍 <img align="right" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> </h1>
- -->
 
  
  <a href="https://www.linkedin.com/in/maira-usman-/" target="_blank">
@@ -15,20 +5,15 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hi%20Myra%20Usman%20Here🤍&fontSize=30&height=120&width=100%&section=header"/>
 </p></a>
  <h4> Visitor count <br><br><img width="120" src="https://profile-counter.glitch.me/Myrausman/count.svg" /></h4>
-<!--  <h4 align="center">I am a Tech Geek👨🏼‍💻</h4></div>
-   -->
+<h4 align="center">I am a Tech Geek👨🏼‍💻</h4></div>
  
-
-
-<div align='center'>
-<a href="https://github.com/samadpls/Islamic-qoutes"><img  align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=F7F7F7&width=435&lines=Python+%7C+Data+Analyst+%7C+CHISEL+%7CHTML+%26+CSS+%7C" alt="Typing SVG" />
-</a></div><br>
 
 
 
  ### 👩‍💻About Me:
-  <a href='https://github.com/samadpls/Programing-Gifs'>
-<img align='right' src='https://programming-gifs.herokuapp.com/' widht=100 height=100 alt='samadpls/Programming-Gifs'></a>
+
+<a href='https://github.com/samadpls/Programing-Gifs'>
+<img align='right' src='https://programming-gifs.cyclic.app' widht=100 height=300 alt='samadpls/Programming-Gifs'></a>
 
  - 👷 Currently pursuing BSc in Software Engineering(2021-2025) from Usman Institute of Technology.
  - This is my first repository on GitHub.
