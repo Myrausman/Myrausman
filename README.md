@@ -12,12 +12,12 @@
 
 ## <img src='.github/workflows/cartoon1.gif' height=45/> About Me:
 
-👋 Hi, I am Maira Usman, a Software Engineering student from UIT-NED. I am passionate about RISC-V and much more. 
+👋 Hi, I am Maira Usman, a Software Engineering student from UIT-NED. I am passionate about Machine Learning and Web Developement. 
  - I love painting 🎨🖌️, coffee ˏˋ☕ˎˊ, and coding 💻.
- - 🌟 RISC-V Enthusiast | 🚀 Machine Learning Enthusiast | 💻 Backend Developer | 👨‍💻 Open Source Contributor
+ - 🌟 Web Developer | 🚀 Machine Learning Enthusiast | 💻 Backend Developer | 👨‍💻 Open Source Contributor
  - 🐍 Python Developer | Devoted to Open Source Contribution 🌐
 
-------
+-------
 
 <details>
   <summary><img src='.github/workflows/cartoon1.gif' height=40/> <h2>Tech Stack</h2></summary>
@@ -26,7 +26,7 @@
   </div>
 </details>
 
----
+----------
 
 <details>
   <summary><img src='.github/workflows/cartoon1.gif' height=40/> <h2>GitHub Stats</h2></summary>
@@ -48,6 +48,9 @@
   </div>
 </details>
 
+---
+
+
 <details>
   <summary><h2>Connect with Me</h2></summary>
   <div align='center'>
@@ -65,5 +68,8 @@
     </a>
   </div>
 </details>
+
+---
+
 
 <img src='.github/workflows/thanks.svg'/>
