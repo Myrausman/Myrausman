@@ -5,20 +5,18 @@
 </a>
 
 <div align="center">
-  <a href="https://github.com/samadpls/Islamic-qoutes">
     <img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=ffbf00&width=420&lines=Python+%7C+AI/ML+%7C+Backend-Developer+%7C" alt="Typing SVG" />
-  </a>
 </div>
 
-## <img src='.github/workflows/cartoon1.gif' height=45/> About Me:
+## About Me:
 
 👋 Hi, I am Maira Usman, a Software Engineering student from UIT-NED. I am passionate about Machine Learning and Web Developement. 
- - I love painting 🎨🖌️, coffee ˏˋ☕ˎˊ, and coding 💻.
+ - I love painting 🎨🖌️, coffee ☕, and coding 💻.
  - 🌟 Web Developer | 🚀 Machine Learning Enthusiast | 💻 Backend Developer | 👨‍💻 Open Source Contributor
  - 🐍 Python Developer | Devoted to Open Source Contribution 🌐
 
 
-<img src='.github/workflows/cartoon1.gif' height=40/> <h2>Tech Stack</h2>
+<h2>Tech Stack</h2>
   <div align='center'>
     <img src="https://skillicons.dev/icons?i=py,githubactions,bash,js,scala,django,flask,html,css,bootstrap,linux,git,github,jquery,cpp,cs,dotnet,vscode,mysql,sqlite,qt,figma,wordpress" alt="Tech Icons" />
   </div>
