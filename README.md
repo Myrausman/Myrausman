@@ -20,23 +20,4 @@
     <img src="https://skillicons.dev/icons?i=py,githubactions,bash,js,scala,django,flask,html,css,bootstrap,linux,git,github,jquery,cpp,cs,dotnet,vscode,mysql,sqlite,qt,figma,wordpress" alt="Tech Icons" />
   </div>
 
-<details>
-  <summary><h2>Connect with Me</h2></summary>
-  <div align='center'>
-    <a href="https://www.linkedin.com/in/maira-usman-">
-      <img alt="LinkedIn" height="30px" width="100px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" />
-    </a>
-    <a href="https://www.instagram.com/artistry_m57/">
-      <img alt="Instagram" height="30px" width="100px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-    </a>
-    <a href="https://www.linkedin.com/in/maira-usman-">
-      <img alt="HackerRank" height="30px" width="100px" src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=black" />
-    </a>
-    <a href="mailto:maira.usman5703o@gmail.com">
-      <img alt="Maira's Gmail" height="30px" width="100px" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" />
-    </a>
-  </div>
-</details>
-
-
 <img src='.github/workflows/thanks.svg'/>
