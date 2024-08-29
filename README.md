@@ -10,10 +10,9 @@
 
 ## About Me:
 
-👋 Hi, I am Maira Usman, a Software Engineering student from UIT-NED. I am passionate about Machine Learning and Web Developement. 
+👋 Hi, I am Maira Usman, a Software Engineering student from UIT-NED. I am actively involved in open-source development and have had internship as a Software Engineer at the Linux Foundation 2024.
  - I love painting 🎨🖌️, coffee ☕, and coding 💻.
- - 🌟 Web Developer | 🚀 Machine Learning Enthusiast | 💻 Backend Developer | 👨‍💻 Open Source Contributor
- - 🐍 Python Developer | Devoted to Open Source Contribution 🌐
+ 
 
 
 <h2>Tech Stack</h2>
