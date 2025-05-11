@@ -9,8 +9,9 @@
 </div>
 
 ## About Me:
-
-👋 Hi, I am Maira Usman, a Software Engineering student from UIT-NED. I am actively involved in open-source development and have had internship as a Software Engineer at the Linux Foundation 2024.
+<div align='center'>
+<p>I'm an <code><b>AI Engineer</b></code> at a startup, specializing in <em>LLMs and deep learning</em>. Currently pursuing Software Engineering at <a href='https://uitu.edu.pk/'>NED University - UIT</a>, I've gained valuable experience as a Software Engineer through internships with <ins>Google Summer of Code 2025</ins> and the <ins>Linux Foundation 2024</ins>. Beyond my professional work, I'm fascinated by <em>computational neuroscience</em> and its potential to unravel the brain's complexities.</p>
+</div>
  - I love painting 🎨🖌️, coffee ☕, and coding 💻.
  
 
